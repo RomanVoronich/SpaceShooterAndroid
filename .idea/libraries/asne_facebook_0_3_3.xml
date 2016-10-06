@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="asne-facebook-0.3.3">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/android/build/intermediates/exploded-aar/com.github.asne/asne-facebook/0.3.3/res" />
+      <root url="jar://$PROJECT_DIR$/android/build/intermediates/exploded-aar/com.github.asne/asne-facebook/0.3.3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.asne/asne-facebook/0.3.3/312d951fa71ef9db4ab860f70b9e3fb95dd531fa/asne-facebook-0.3.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

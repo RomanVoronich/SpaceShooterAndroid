@@ -1,0 +1,83 @@
+
+game-menu.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+free
+  rotate: false
+  xy: 350, 127
+  size: 214, 123
+  orig: 214, 123
+  offset: 0, 0
+  index: -1
+game-name
+  rotate: false
+  xy: 133, 434
+  size: 283, 304
+  orig: 283, 304
+  offset: 0, 0
+  index: -1
+level
+  rotate: false
+  xy: 2, 251
+  size: 129, 487
+  orig: 129, 487
+  offset: 0, 0
+  index: -1
+play
+  rotate: false
+  xy: 2, 740
+  size: 380, 258
+  orig: 380, 258
+  offset: 0, 0
+  index: -1
+rating
+  rotate: false
+  xy: 133, 343
+  size: 406, 89
+  orig: 406, 89
+  offset: 0, 0
+  index: -1
+settings
+  rotate: false
+  xy: 350, 2
+  size: 214, 123
+  orig: 214, 123
+  offset: 0, 0
+  index: -1
+shop-bullet
+  rotate: false
+  xy: 702, 777
+  size: 224, 221
+  orig: 224, 221
+  offset: 0, 0
+  index: -1
+shop-coins
+  rotate: false
+  xy: 133, 252
+  size: 406, 89
+  orig: 406, 89
+  offset: 0, 0
+  index: -1
+shop-life
+  rotate: false
+  xy: 2, 36
+  size: 172, 213
+  orig: 172, 213
+  offset: 0, 0
+  index: -1
+shop-skin
+  rotate: false
+  xy: 384, 784
+  size: 316, 214
+  orig: 316, 214
+  offset: 0, 0
+  index: -1
+shop-speed
+  rotate: false
+  xy: 176, 37
+  size: 172, 213
+  orig: 172, 213
+  offset: 0, 0
+  index: -1

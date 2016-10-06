@@ -1,0 +1,26 @@
+MenuPack.png
+size: 963, 477
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Play
+  rotate: false
+  xy: 1, 1
+  size: 961, 157
+  orig: 961, 157
+  offset: 0, 0
+  index: -1
+Rating
+  rotate: false
+  xy: 1, 160
+  size: 961, 157
+  orig: 961, 157
+  offset: 0, 0
+  index: -1
+Store
+  rotate: false
+  xy: 1, 319
+  size: 961, 157
+  orig: 961, 157
+  offset: 0, 0
+  index: -1
